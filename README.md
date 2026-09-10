@@ -81,15 +81,6 @@ An IoT automation system that detects rainfall and automatically protects clothe
 
 **Tech:** Arduino • Rain Sensor • Servo Motor • IoT
 
----
-
-### 🌿 Medicinal Plant Authentication
-
-An AI-based project for medicinal plant species identification and authenticity verification using image features and machine learning.
-
-**Tech:** Python • MATLAB • Machine Learning • Computer Vision
-
----
 
 ## 🧠 LeetCode Journey
 
@@ -99,10 +90,10 @@ I'm actively improving my **Data Structures & Algorithms** skills through LeetCo
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy | 108 |
-| 🟡 Medium | 17 |
+| 🟢 Easy | 120 |
+| 🟡 Medium | 18 |
 | 🔴 Hard | 0 |
-| ⭐ Total | **125+** |
+| ⭐ Total | **130+** |
 
 👉 **[View My LeetCode Profile](https://leetcode.com/u/sujayaks/)**
 
