@@ -1,400 +1,253 @@
 <div align="center">
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:9B466B,50:806484,100:3D8FA8&height=210&section=header&text=Sujaya%20K%20S&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Electronics%20%26%20Communication%20Engineering&descAlignY=60&descSize=17"
-width="100%"
-/>
+# ✨ Hi, I'm Sujaya K S
 
-<img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3D8FA8&center=true&vCenter=true&width=850&lines=Software+Development+%7C+Problem+Solving;Java+%7C+Python+%7C+Data+Structures;Embedded+Systems+%7C+IoT;Hardware+%2B+Software+Integration;Learning.+Building.+Improving."
-alt="Typing SVG"
-/>
+### Electronics & Communication Engineering Student  
+### Software Development • Embedded Systems • IoT
 
 <br>
 
-<a href="https://github.com/sujaya-25">
-<img src="https://img.shields.io/badge/GitHub-sujaya--25-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<p>
+  <a href="https://github.com/sujaya-25">
+    <img src="https://img.shields.io/badge/GitHub-sujaya--25-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/sujayaks/">
-<img src="https://img.shields.io/badge/LinkedIn-Sujaya%20K%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/sujayaks/">
+    <img src="https://img.shields.io/badge/LinkedIn-Sujaya_K_S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<a href="mailto:sujayaaks@gmail.com">
-<img src="https://img.shields.io/badge/Email-sujayaaks%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="mailto:sujayaaks@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://sujaya-25.github.io/PORTFOLIO/">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+</p>
+
+<br>
+
+> **Building practical solutions by combining software, electronics and real-world problem solving.**
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 🌸 About Me
 
-```java
-public class Sujaya {
+I'm a final-year **B.E. Electronics and Communication Engineering** student at  
+**Dr. N.G.P Institute of Technology, Coimbatore**, with a **CGPA of 8.7**.
 
-    String degree = "B.E. Electronics and Communication Engineering";
-    String college = "Dr. N.G.P Institute of Technology";
+I enjoy developing practical solutions using **software, embedded systems and IoT**.  
+My experience includes **Java, Python, Arduino, sensor interfacing, GUI development, authentication systems, testing and debugging**.
 
-    String[] programming = {
-        "Java", "Python", "C"
-    };
-
-    String[] interests = {
-        "Software Development",
-        "Data Structures & Algorithms",
-        "Embedded Systems & IoT",
-        "Application Development",
-        "Testing & Debugging"
-    };
-
-    String goal =
-        "Build practical solutions, solve problems and grow as a developer.";
-}
-```
-
-I'm a **final-year Electronics and Communication Engineering student** with a strong interest in **software development, problem solving and embedded technologies**.
-
-I enjoy working at the intersection of **programming and electronics**, where software communicates with real-world hardware through sensors, microcontrollers and automation.
-
-My project and internship experience has helped me develop hands-on skills in **Java, Python, Arduino, IoT, data handling, sensor interfacing, testing and debugging**.
+Currently, I'm strengthening my skills in **Data Structures & Algorithms, software development and problem solving**.
 
 ---
 
-## ⚡ Developer Snapshot
+## 💻 Tech I Work With
 
-```text
-📍 Coimbatore, Tamil Nadu
-🎓 B.E. Electronics & Communication Engineering
-🏫 Dr. N.G.P Institute of Technology
-📊 CGPA: 8.7
+<div align="center">
 
-💻 Programming      → Java • Python • C
-🧠 Core Concepts    → DSA • OOP • DBMS • SQL
-⚙️ Embedded         → Arduino • NodeMCU • Sensors
-🖥️ GUI Development → Python Tkinter
-🛠️ Tools            → GitHub • VS Code • Arduino IDE • MS Excel
-🎯 Focus             → Software • IoT • Problem Solving
-```
+### Languages
 
----
-
-# 🛠️ Technical Stack
-
-### 👩‍💻 Programming Languages
-
-<p>
 <img src="https://skillicons.dev/icons?i=java,python,c" />
-</p>
 
-### 🧠 Core Computer Science
+<br><br>
 
-<p>
-<img src="https://img.shields.io/badge/Data%20Structures-3D8FA8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OOP-806484?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DBMS-9B466B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+### Development Tools
 
-### ⚙️ Embedded Systems & IoT
-
-<p>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/NodeMCU-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Sensor%20Interfacing-3D8FA8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/IoT-806484?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Hardware--Software%20Integration-9B466B?style=for-the-badge"/>
-</p>
-
-### 🧰 Development Tools
-
-<p>
 <img src="https://skillicons.dev/icons?i=vscode,git,github,arduino" />
-</p>
 
-<p>
-<img src="https://img.shields.io/badge/Tkinter-GUI%20Development-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-</p>
+<br><br>
+
+</div>
+
+<div align="center">
+
+![DSA](https://img.shields.io/badge/Data%20Structures-4F46E5?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-7C3AED?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-0891B2?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-2563EB?style=for-the-badge)
+
+<br>
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![NodeMCU](https://img.shields.io/badge/NodeMCU-374151?style=for-the-badge)
+![IoT](https://img.shields.io/badge/IoT-0EA5E9?style=for-the-badge)
+![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🪪 GuidEx — Smart Exam Hall Guidance System
-
-> **RFID + Biometric Authentication + Python GUI + Real-Time Student Verification**
-
-Developed a smart exam hall guidance system designed to simplify **student authentication and exam hall allocation**.
-
-* Implemented **RFID and biometric authentication**
-* Developed a **Python GUI using Tkinter**
-* Performed student verification and hall allocation
-* Used **CSV-based data handling** for student records
-* Implemented authentication logic and real-time data processing
-
-**Tech Stack**
-
-`Python` `Tkinter` `RFID` `Biometrics` `CSV` `Authentication`
-
-<details>
-<summary><b>🔎 What makes GuidEx interesting?</b></summary>
-
-<br>
-
-GuidEx combines **software development with embedded authentication technology**.
-
-Instead of relying only on manual verification, the system uses RFID and biometric inputs to identify students and provides hall information through a Python-based interface.
-
-The project helped strengthen skills in GUI development, authentication logic, hardware integration and data processing.
-
-</details>
-
----
-
-## 🔐 Smart Fingerprint Door Lock System
-
-> **Biometric Security using Arduino**
-
-Designed and developed a fingerprint-based smart door locking system focused on secure access control.
-
-* Developed the system using **Arduino**
-* Integrated a **fingerprint biometric sensor**
-* Implemented user authentication
-* Provided controlled access to authorized users
-* Designed the system to prevent unauthorized entry
-
-**Tech Stack**
-
-`Arduino` `Fingerprint Sensor` `Embedded Systems` `Biometric Authentication`
-
-<details>
-<summary><b>🔎 Project Concept</b></summary>
-
-<br>
-
-The system authenticates a user's fingerprint before granting access.
-
-It demonstrates practical understanding of **sensor interfacing, microcontroller programming and embedded security systems**.
-
-</details>
-
----
-
-## 🌧️ Automatic Rain-Sensing Retractable Clothesline
-
-> **Sensor-Based Automation System**
-
-Built an automated clothesline system capable of detecting rainfall and automatically retracting clothes for protection.
-
-* Designed using a **microcontroller**
-* Integrated a **rain sensor**
-* Detected rainfall automatically
-* Triggered the clothesline retraction mechanism
-* Reduced the need for manual monitoring
-
-**Tech Stack**
-
-`Microcontroller` `Rain Sensor` `Automation` `Embedded Systems`
-
-<details>
-<summary><b>🔎 Project Purpose</b></summary>
-
-<br>
-
-The project demonstrates how a simple environmental sensor can be combined with automation to solve an everyday problem.
-
-It strengthened practical understanding of **sensor input, control logic and automated hardware response**.
-
-</details>
-
----
-
-# 💡 Innovation & Hackathon
-
-## 🌱 Crowdsourced Civic Issue Reporting and Resolution System
-
-Presented at **Smart India Hackathon — SIH 2025** under the **Clean & Green Technology** theme.
-
-The project focused on applying technology toward community-level civic issue identification and resolution.
-
-<p>
-<img src="https://img.shields.io/badge/Smart%20India%20Hackathon-2025-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Theme-Clean%20%26%20Green%20Technology-green?style=for-the-badge"/>
-</p>
-
----
-
-# 💼 Professional Experience
-
 <table>
-
 <tr>
-<td width="22%" align="center">
 
-### 🌐 IoT
+<td width="33%" valign="top">
 
-**June 2025**
+<h3 align="center">🎓 GuidEx</h3>
+
+<p align="center"><b>Smart Exam Hall Guidance System</b></p>
+
+A smart exam hall guidance solution using **RFID and biometric authentication** for student verification.
+
+### ✦ Highlights
+- Python GUI using Tkinter
+- Student authentication
+- Hall allocation
+- CSV data handling
+- Real-time processing
+
+### 🛠 Tech
+`Python` `Tkinter` `RFID` `Biometric` `CSV`
 
 </td>
 
-<td>
+<td width="33%" valign="top">
 
-### IoT Intern — TRIOX Technology, Coimbatore
+<h3 align="center">🔐 Smart Door Lock</h3>
 
-* Gained hands-on experience in **IoT fundamentals**
-* Worked with sensors and microcontrollers
-* Used **Arduino and NodeMCU**
-* Worked with cloud platforms for real-time data monitoring and control
-* Developed a mini project using **rain sensor-based automation**
+<p align="center"><b>Fingerprint Authentication System</b></p>
+
+An Arduino-based smart security system designed to provide **controlled biometric access**.
+
+### ✦ Highlights
+- Fingerprint authentication
+- Secure access control
+- Arduino integration
+- Sensor interfacing
+
+### 🛠 Tech
+`Arduino` `Fingerprint Sensor` `Embedded`
 
 </td>
+
+<td width="33%" valign="top">
+
+<h3 align="center">🌧️ Smart Clothesline</h3>
+
+<p align="center"><b>Rain-Sensing Automation</b></p>
+
+An automated retractable clothesline that reacts automatically when rainfall is detected.
+
+### ✦ Highlights
+- Rain detection
+- Automatic retraction
+- Microcontroller control
+- Reduced manual effort
+
+### 🛠 Tech
+`Microcontroller` `Rain Sensor` `Automation`
+
+</td>
+
 </tr>
-
-<tr>
-<td width="22%" align="center">
-
-### ⚙️ Smart Systems
-
-**Nov 2025**
-
-</td>
-
-<td>
-
-### Winter Intern — Coimbatore Institute of Technology
-
-* Trained in **Smart Systems and Emerging Technologies**
-* Explored embedded systems and real-time applications
-* Improved understanding of automation
-* Gained knowledge in hardware interfacing
-
-</td>
-</tr>
-
 </table>
 
 ---
 
-# 🧠 Core Strengths
-
-```text
-Programming Foundation        ███████████████████░
-Problem Solving               ███████████████████░
-Embedded Systems              ██████████████████░░
-Hardware-Software Integration ██████████████████░░
-Testing & Debugging           ██████████████████░░
-Adaptability                  ███████████████████░
-```
-
-* Strong foundation in **Programming, Embedded Systems and Electronics**
-* Proficient in **Java, Python and Arduino**
-* Hands-on experience with **sensor interfacing**
-* Hardware–software integration
-* Testing and debugging
-* Analytical thinking
-* Problem solving
-* Adaptability
-
----
-
-# 🎯 Professional Interests
+## 💡 Innovation Spotlight
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Software%20Development-3D8FA8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-806484?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Problem%20Solving-9B466B?style=for-the-badge"/>
+### 🌱 Smart India Hackathon 2025
 
-<br>
+**Crowdsourced Civic Issue Reporting & Resolution System**
 
-<img src="https://img.shields.io/badge/Embedded%20Systems%20%26%20IoT-00979D?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Application%20Development-4479A1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Testing%20%26%20Debugging-555555?style=for-the-badge"/>
+`Clean & Green Technology`
 
 </div>
 
----
-
-# 🏆 Certifications & Achievements
-
-<details open>
-
-<summary><b>🎓 Technical Certifications</b></summary>
-
-<br>
-
-### 🔐 Cryptography and Network Security
-
-**NPTEL — IIT Kharagpur | 2026**
-
-🏅 **Elite Certification**
+Designed and presented a technology-based solution aimed at improving the way citizens report and track civic issues within communities.
 
 ---
 
-### 🖥️ Computer Architecture
+# 💼 Experience
 
-**NPTEL | 2024**
+### 🌐 IoT Intern
+**TRIOX Technology, Coimbatore**  
+`June 2025`
 
-Successfully completed the NPTEL course on Computer Architecture.
+Worked with **Arduino, NodeMCU, sensors and IoT technologies** for real-time monitoring and control.
 
-</details>
+Developed a mini project involving **rain-sensor-based automation**, gaining practical exposure to microcontrollers and hardware-software integration.
 
 <br>
+
+### ⚙️ Winter Intern
+**Coimbatore Institute of Technology**  
+`November 2025`
+
+Completed training in **Smart Systems and Emerging Technologies**.
+
+Gained exposure to:
+
+- Embedded systems
+- Automation
+- Real-time applications
+- Hardware interfacing
+
+---
+
+# 🏆 Achievements & Certifications
 
 <details>
-
-<summary><b>⚡ Workshops & Technical Events</b></summary>
+<summary><b>✨ View my certifications and achievements</b></summary>
 
 <br>
 
-### Semi-Custom ASIC Design Flow using Cadence EDA
-
-**SREC UTSAVA'26 — Sri Ramakrishna Engineering College**
-
-January 2026
+### 🥇 NPTEL Elite Certification
+**Cryptography and Network Security**  
+IIT Kharagpur • 2026
 
 ---
 
-### Circuit Masters — Paper Presentation
-
-**SREC UTSAVA'26 — Sri Ramakrishna Engineering College**
-
-January 2026
+### 🎓 NPTEL
+**Computer Architecture**  
+2024
 
 ---
 
-### PCB Designing and Fabrication
+### ⚡ Semi-Custom ASIC Design Flow
+Workshop using **Cadence EDA**
 
-**Pinnacle 2024 — Coimbatore Institute of Technology**
+SREC UTSAVA'26  
+Sri Ramakrishna Engineering College
 
-Completed hands-on workshop exposure to PCB design and fabrication.
+---
 
-</details>
+### 📄 Circuit Masters
+Paper Presentation
 
-<br>
+SREC UTSAVA'26  
+Sri Ramakrishna Engineering College
 
-<details>
+---
 
-<summary><b>💡 Innovation & Competitions</b></summary>
+### 🔧 PCB Designing & Fabrication
+Pinnacle 2024  
+Coimbatore Institute of Technology
 
-<br>
+---
 
-### Smart India Hackathon 2025
+### 💡 Smart India Hackathon 2025
 
 Presented:
 
 **Crowdsourced Civic Issue Reporting and Resolution System**
 
-Theme:
-
-**Clean & Green Technology**
+Theme: **Clean & Green Technology**
 
 ---
 
-### 🏐 Throwball
+### 🏐 Sports Achievement
 
-🏆 **Winner — Intra College Competition, 2024**
+**Throwball Winner — 2024**
+
+Intra-College Competition
 
 </details>
 
@@ -405,99 +258,119 @@ Theme:
 <table>
 
 <tr>
+<td width="20%" align="center">
 
-<td>
-
-### 🎓 B.E. Electronics and Communication Engineering
-
-**Dr. N.G.P Institute of Technology**
-
-📅 2023 — Present
-
-**CGPA: 8.7**
+### 🎓 2023  
+### ↓  
+### Present
 
 </td>
 
+<td>
+
+### B.E. Electronics and Communication Engineering
+
+**Dr. N.G.P Institute of Technology**
+
+**CGPA — 8.7**
+
+</td>
 </tr>
 
 <tr>
+<td align="center">
+
+### 📚 2023
+
+</td>
 
 <td>
 
-### 📚 Higher Secondary — CBSE
+### Higher Secondary — CBSE
 
-**Amrita Vidyalayam CBSE Senior Secondary School**
-
-📅 May 2023
+**Amrita Vidyalayam Senior Secondary School**
 
 **80.4%**
 
 </td>
-
 </tr>
 
 <tr>
+<td align="center">
+
+### 📖 2021
+
+</td>
 
 <td>
 
-### 📖 Secondary School — CBSE
+### Secondary School — CBSE
 
-**Amrita Vidyalayam CBSE Senior Secondary School**
-
-📅 March 2021
+**Amrita Vidyalayam Senior Secondary School**
 
 **88.2%**
 
 </td>
-
 </tr>
 
 </table>
 
 ---
 
-# 🌱 Currently Focused On
-
-```text
-01 ── Strengthening Java & Python Programming
-02 ── Improving Data Structures & Algorithms
-03 ── Building Software Development Skills
-04 ── Exploring Embedded Systems & IoT
-05 ── Practicing Problem Solving
-06 ── Improving Testing & Debugging Skills
-```
-
----
-
-# 🤝 Let's Connect
+## 🌱 Currently Growing In
 
 <div align="center">
 
-### I'm always interested in learning, building and connecting with people in technology.
+`Java` • `Python` • `Data Structures & Algorithms`
+
+`Software Development` • `Problem Solving`
+
+`Embedded Systems` • `IoT` • `Testing & Debugging`
+
+</div>
+
+---
+
+## 🌐 Beyond GitHub
+
+<div align="center">
+
+### Want to know more about my work?
 
 <br>
 
-<a href="https://www.linkedin.com/in/sujayaks/">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:sujayaaks@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/sujaya-25">
-<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://sujaya-25.github.io/PORTFOLIO/">
+<img src="https://img.shields.io/badge/✨_Explore_My_Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <br><br>
 
-### `Learn → Build → Solve → Improve`
+**Projects • Experience • Skills • Achievements**
 
-<br>
+</div>
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:9B466B,50:806484,100:3D8FA8&height=120&section=footer"
-width="100%"
-/>
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sujayaks/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sujayaaks@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sujaya-25">
+<img src="https://img.shields.io/badge/GitHub-Follow_My_Work-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+### ✨ Learn • Build • Solve • Improve
+
+<sub>Thanks for visiting my profile 🤍</sub>
 
 </div>
