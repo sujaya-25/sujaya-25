@@ -1,127 +1,188 @@
-<div align="center">
+<h1 align="center">👋 Hi, I'm Sujaya K S</h1>
 
-# 👋 Hi, I'm Sujaya K S
+<h3 align="center">
+ECE Student • Software Developer • Problem Solver
+</h3>
 
-### ECE Student • Software Developer • Problem Solver
+<p align="center">
+  <a href="https://sujaya-25.github.io/PORTFOLIO/">
+    <img src="https://img.shields.io/badge/🌐_Interactive_Portfolio-Visit_Now-blue?style=for-the-badge">
+  </a>
 
-💻 Python | Java | C | SQL  
-🧠 DSA | OOP | DBMS  
-🌐 IoT | Embedded Systems | AI
+  <a href="https://www.linkedin.com/in/sujayaks/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
 
-<p>
-  <a href="https://github.com/sujaya-25/PORTFOLIO">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/sujayaks/">💼 LinkedIn</a> •
-  <a href="https://leetcode.com/u/sujayaks/">🧠 LeetCode</a>
+  <a href="mailto:sujayaaks@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail">
+  </a>
 </p>
-
-> 🚀 Building ideas today for a smarter tomorrow.
-
-</div>
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm **Sujaya K S**, an Electronics and Communication Engineering student passionate about software development, problem solving, IoT, and intelligent systems.
+I'm **Sujaya K S**, an Electronics and Communication Engineering student interested in software development, problem solving, IoT and intelligent systems.
 
-I enjoy turning ideas into practical projects and continuously improving my programming and DSA skills.
+I enjoy converting ideas into practical projects and continuously improving my programming and Data Structures skills.
 
 - 🎓 Electronics & Communication Engineering
-- 💻 Interested in Software Development & Problem Solving
+- 💻 Interested in Software Development
 - 🐍 Currently working with Python
 - ☕ Learning Java & Data Structures
-- 🔧 Exploring Embedded Systems and IoT
-- 🤖 Interested in AI and Edge AI
+- 🌐 Exploring IoT and Embedded Systems
+- 🧠 Interested in AI and Edge AI
 - 🚀 Building real-world projects
 - 🌱 Always learning something new
 
 ---
 
-## 🛠️ Tech Stack
+## 🌐 My Interactive Portfolio
 
-### 💻 Programming
+<p align="center">
 
-`Python` `Java` `C` `SQL`
+### 👇 Click here to explore my complete portfolio
 
-### 🧠 Computer Science
+<a href="https://sujaya-25.github.io/PORTFOLIO/">
+  <img src="https://img.shields.io/badge/OPEN_MY_INTERACTIVE_PORTFOLIO-🚀-brightgreen?style=for-the-badge">
+</a>
 
-`Data Structures & Algorithms` `OOP` `DBMS` `Problem Solving`
+</p>
 
-### 🔧 Tools & Technologies
+Inside my portfolio you can explore:
 
-`Git` `GitHub` `VS Code` `Arduino` `Tkinter` `MATLAB`
-
-### 🌐 Areas of Interest
-
-`Software Development` `IoT` `Embedded Systems` `Robotics` `AI` `Edge AI`
-
----
-
-## 🚀 Featured Projects
-
-### 🎓 GuidEx — Smart Exam Hall Guidance System
-
-A smart exam-hall guidance system designed to simplify student authentication, hall allocation and navigation.
-
-**Tech:** Python • Tkinter • RFID • Biometrics • CSV
+- 👩‍💻 About Me
+- 🛠️ Technical Skills
+- 🚀 Projects
+- 🎯 Interactive Project Filters
+- 💻 Simulations
+- 🌙 Dark / Light Mode
+- 🖥️ Interactive Terminal
+- 📄 Resume
 
 ---
 
-### 🔐 Smart Fingerprint Door Lock System
+## 🛠️ Technical Skills
 
-An Arduino-based security system using fingerprint authentication for smart access control.
+### 💻 Programming Languages
 
-**Tech:** Arduino • Fingerprint Sensor • Embedded C
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</p>
 
----
+### 🧠 Core Concepts
 
-### 🌧️ Automatic Rain-Sensing Retractable Clothesline
+<p>
+<img src="https://img.shields.io/badge/Data_Structures-DSA-purple?style=for-the-badge">
+<img src="https://img.shields.io/badge/OOP-Java-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/DBMS-SQL-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Problem_Solving-Coding-green?style=for-the-badge">
+</p>
 
-An IoT automation system that detects rainfall and automatically protects clothes using a retractable mechanism.
+### ⚙️ Areas of Interest
 
-**Tech:** Arduino • Rain Sensor • Servo Motor • IoT
-
-
-## 🧠 LeetCode Journey
-
-I'm actively improving my **Data Structures & Algorithms** skills through LeetCode.
-
-### 📊 Current Progress
-
-| Difficulty | Solved |
-|------------|--------|
-| 🟢 Easy | 120 |
-| 🟡 Medium | 18 |
-| 🔴 Hard | 0 |
-| ⭐ Total | **130+** |
-
-👉 **[View My LeetCode Profile](https://leetcode.com/u/sujayaks/)**
-
-My solutions are being organized in my GitHub repository:
-
-👉 **[LeetCode Solutions](https://github.com/sujaya-25/LEETCODE)**
+<p>
+<img src="https://img.shields.io/badge/IoT-Internet_of_Things-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Embedded_Systems-ECE-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/Artificial_Intelligence-AI-purple?style=for-the-badge">
+<img src="https://img.shields.io/badge/Edge_AI-Intelligent_Systems-green?style=for-the-badge">
+</p>
 
 ---
 
-## 📈 GitHub
+# 🚀 Explore My Projects
 
-I use GitHub to document my projects, programming practice and learning journey.
+<details>
 
-### 📂 Explore My Work
+<summary><b>💻 Click to View Software Projects</b></summary>
 
-🌐 **[Portfolio](https://github.com/sujaya-25/PORTFOLIO)**
+<br>
 
-🧠 **[LeetCode Solutions](https://github.com/sujaya-25/LEETCODE)**
+### 🚀 Software Projects
 
----
+Here you can explore my software development and programming projects.
 
-## 🌱 Currently Learning
+👉 [View All Projects](https://github.com/sujaya-25?tab=repositories)
+
+👉 [Explore Interactive Portfolio](https://sujaya-25.github.io/PORTFOLIO/)
+
+</details>
+
+<br>
+
+<details>
+
+<summary><b>🌐 Click to View IoT & Embedded Projects</b></summary>
+
+<br>
+
+### 🌐 IoT & Embedded Systems
+
+Projects involving:
+
+- Sensors
+- Microcontrollers
+- Embedded Systems
+- Internet of Things
+- Hardware + Software Integration
+
+👉 [View My Repositories](https://github.com/sujaya-25?tab=repositories)
+
+</details>
+
+<br>
+
+<details>
+
+<summary><b>🤖 Click to View AI Projects</b></summary>
+
+<br>
+
+### 🤖 Artificial Intelligence
+
+Areas I'm exploring:
+
+- Artificial Intelligence
+- Computer Vision
+- Machine Learning
+- Edge AI
+- Intelligent Systems
+
+👉 [Explore Projects](https://sujaya-25.github.io/PORTFOLIO/#projects)
+
+</details>
+
+<br>
+
+<details>
+
+<summary><b>📚 Click to View What I'm Currently Learning</b></summary>
+
+<br>
+
+### 🌱 Currently Learning
 
 ```text
 Java
-  ↓
-Data Structures & Algorithms
-  ↓
-Problem Solving
-  ↓
-Software Development
+│
+├── Arrays
+├── Strings
+├── OOP
+├── Data Structures
+└── Problem Solving
+
+Python
+│
+├── Programming
+├── Automation
+├── AI
+└── Project Development
+
+ECE
+│
+├── IoT
+├── Embedded Systems
+└── Edge AI
