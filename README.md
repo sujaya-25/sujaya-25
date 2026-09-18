@@ -1,8 +1,20 @@
-<h1 align="center">👋 Hi, I'm Sujaya K S</h1>
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:9B466B,50:806484,100:3D8FA8&height=190&section=header&text=Sujaya%20K%20S&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"
+    width="100%"
+  />
+</p>
 
 <h3 align="center">
-ECE Student • Software Developer • Problem Solver
+  Electronics and Communication Engineering | Software Development | IoT | Embedded Systems | AI
 </h3>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1DA1F2&center=true&vCenter=true&width=750&lines=Software+Development+and+IoT+Enthusiast"
+    alt="Typing SVG"
+  />
+</p>
 
 <p align="center">
   <a href="https://sujaya-25.github.io/PORTFOLIO/">
@@ -17,7 +29,6 @@ ECE Student • Software Developer • Problem Solver
     <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail">
   </a>
 </p>
-
 ---
 
 ## 👩‍💻 About Me
