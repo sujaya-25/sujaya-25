@@ -186,24 +186,12 @@ ECE
 ├── IoT
 ├── Embedded Systems
 └── Edge AI
-## 🐍 Contribution Snake
+```
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/sujaya-25/sujaya-25/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/sujaya-25/sujaya-25/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="GitHub contribution snake"
-      src="https://raw.githubusercontent.com/sujaya-25/sujaya-25/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
-</p>
+</details>
+
+---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -221,4 +209,34 @@ ECE
       src="https://raw.githubusercontent.com/sujaya-25/sujaya-25/output/github-contribution-grid-snake.svg"
     />
   </picture>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://sujaya-25.github.io/PORTFOLIO/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge">
+</a>
+
+<a href="https://www.linkedin.com/in/sujayaks/">
+<img src="https://img.shields.io/badge/LinkedIn-Sujaya_K_S-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:sujayaaks@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Email_Me-red?style=for-the-badge&logo=gmail">
+</a>
+
+</p>
+
+---
+
+<h3 align="center">
+🚀 Building ideas today for a smarter tomorrow.
+</h3>
+
+<p align="center">
+⭐ Thanks for visiting my GitHub profile!
 </p>
