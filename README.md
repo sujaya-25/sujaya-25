@@ -1,253 +1,302 @@
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:9B466B,50:806484,100:3D8FA8&height=190&section=header&text=Sujaya%20K%20S&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"
-    width="100%"
-  />
-</p>
+<div align="center">
 
-<h3 align="center">
-  Electronics and Communication Engineering | Software Development | IoT | Embedded Systems | AI
-</h3>
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:9B466B,50:806484,100:3D8FA8&height=200&section=header&text=Sujaya%20K%20S&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"
+width="100%"
+/>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1DA1F2&center=true&vCenter=true&width=750&lines=Software+Development+and+IoT+Enthusiast"
-    alt="Typing SVG"
-  />
-</p>
+### Electronics & Communication Engineering | Software Development | IoT | Embedded Systems | AI
 
-<p align="center">
-  <a href="https://sujaya-25.github.io/PORTFOLIO/">
-    <img src="https://img.shields.io/badge/🌐_Interactive_Portfolio-Visit_Now-blue?style=for-the-badge">
-  </a>
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=3D8FA8&center=true&vCenter=true&width=750&lines=Software+Developer+%7C+Problem+Solver;IoT+%26+Embedded+Systems+Enthusiast;Building+Technology+with+Real-World+Impact;Always+Learning+%7C+Always+Building"
+alt="Typing SVG"
+/>
 
-  <a href="https://www.linkedin.com/in/sujayaks/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
+<br>
 
-  <a href="mailto:sujayaaks@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail">
-  </a>
-</p>
+<a href="https://github.com/sujaya-25">
+  <img src="https://img.shields.io/badge/GitHub-sujaya--25-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
 ---
 
 ## 👩‍💻 About Me
 
-I'm **Sujaya K S**, an Electronics and Communication Engineering student interested in software development, problem solving, IoT and intelligent systems.
-
-I enjoy converting ideas into practical projects and continuously improving my programming and Data Structures skills.
-
-- 🎓 Electronics & Communication Engineering
-- 💻 Interested in Software Development
-- 🐍 Currently working with Python
-- ☕ Learning Java & Data Structures
-- 🌐 Exploring IoT and Embedded Systems
-- 🧠 Interested in AI and Edge AI
-- 🚀 Building real-world projects
-- 🌱 Always learning something new
-
----
-
-## 🌐 My Interactive Portfolio
-
-<p align="center">
-
-### 👇 Click here to explore my complete portfolio
-
-<a href="https://sujaya-25.github.io/PORTFOLIO/">
-  <img src="https://img.shields.io/badge/OPEN_MY_INTERACTIVE_PORTFOLIO-🚀-brightgreen?style=for-the-badge">
-</a>
-
-</p>
-
-Inside my portfolio you can explore:
-
-- 👩‍💻 About Me
-- 🛠️ Technical Skills
-- 🚀 Projects
-- 🎯 Interactive Project Filters
-- 💻 Simulations
-- 🌙 Dark / Light Mode
-- 🖥️ Interactive Terminal
-- 📄 Resume
-
----
-
-## 🛠️ Technical Skills
-
-### 💻 Programming Languages
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-</p>
-
-### 🧠 Core Concepts
-
-<p>
-<img src="https://img.shields.io/badge/Data_Structures-DSA-purple?style=for-the-badge">
-<img src="https://img.shields.io/badge/OOP-Java-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/DBMS-SQL-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/Problem_Solving-Coding-green?style=for-the-badge">
-</p>
-
-### ⚙️ Areas of Interest
-
-<p>
-<img src="https://img.shields.io/badge/IoT-Internet_of_Things-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/Embedded_Systems-ECE-red?style=for-the-badge">
-<img src="https://img.shields.io/badge/Artificial_Intelligence-AI-purple?style=for-the-badge">
-<img src="https://img.shields.io/badge/Edge_AI-Intelligent_Systems-green?style=for-the-badge">
-</p>
-
----
-
-# 🚀 Explore My Projects
-
-<details>
-
-<summary><b>💻 Click to View Software Projects</b></summary>
-
-<br>
-
-### 🚀 Software Projects
-
-Here you can explore my software development and programming projects.
-
-👉 [View All Projects](https://github.com/sujaya-25?tab=repositories)
-
-👉 [Explore Interactive Portfolio](https://sujaya-25.github.io/PORTFOLIO/)
-
-</details>
-
-<br>
-
-<details>
-
-<summary><b>🌐 Click to View IoT & Embedded Projects</b></summary>
-
-<br>
-
-### 🌐 IoT & Embedded Systems
-
-Projects involving:
-
-- Sensors
-- Microcontrollers
-- Embedded Systems
-- Internet of Things
-- Hardware + Software Integration
-
-👉 [View My Repositories](https://github.com/sujaya-25?tab=repositories)
-
-</details>
-
-<br>
-
-<details>
-
-<summary><b>🤖 Click to View AI Projects</b></summary>
-
-<br>
-
-### 🤖 Artificial Intelligence
-
-Areas I'm exploring:
-
-- Artificial Intelligence
-- Computer Vision
-- Machine Learning
-- Edge AI
-- Intelligent Systems
-
-👉 [Explore Projects](https://sujaya-25.github.io/PORTFOLIO/#projects)
-
-</details>
-
-<br>
-
-<details>
-
-<summary><b>📚 Click to View What I'm Currently Learning</b></summary>
-
-<br>
-
-### 🌱 Currently Learning
-
 ```text
-Java
-│
-├── Arrays
-├── Strings
-├── OOP
-├── Data Structures
-└── Problem Solving
+> whoami
 
-Python
-│
-├── Programming
-├── Automation
-├── AI
-└── Project Development
+Sujaya K S
 
-ECE
-│
-├── IoT
-├── Embedded Systems
-└── Edge AI
+> education
+
+Electronics and Communication Engineering
+
+> interests
+
+Software Development
+Embedded Systems
+Internet of Things
+Artificial Intelligence
+
+> mindset
+
+Learn → Build → Improve → Repeat
 ```
 
+I am an **Electronics and Communication Engineering student** interested in building practical solutions using software, embedded systems and emerging technologies.
+
+I enjoy exploring how **software and electronics can work together** to solve real-world problems while continuously improving my technical and problem-solving skills.
+
+---
+
+## 🚀 What I'm Exploring
+
+* 💻 Software Development
+* 🌐 Internet of Things
+* ⚙️ Embedded Systems
+* 🤖 Artificial Intelligence
+* 🧠 Problem Solving
+* 📡 Electronics & Communication Technologies
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp" />
+
+</p>
+
+### Development & Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github" />
+
+</p>
+
+### Embedded & IoT
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/IoT-3D8FA8?style=for-the-badge"/>
+
+</p>
+
+### Engineering & AI
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Embedded%20Systems-806484?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-9B466B?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🚀 Project One
+
+**Short description of your strongest project.**
+
+**Tech:** Java / Python / IoT / Embedded Systems
+
+<a href="YOUR_PROJECT_LINK">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🤖 Project Two
+
+**Explain what problem the project solves in one or two lines.**
+
+**Tech:** AI / Python / Embedded Systems
+
+<a href="YOUR_PROJECT_LINK">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🌐 Project Three
+
+**A practical IoT or software development project.**
+
+**Tech:** IoT / ESP32 / Web
+
+<a href="YOUR_PROJECT_LINK">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 💡 Project Four
+
+**Another project showing your problem-solving ability.**
+
+**Tech:** Java / MATLAB / Electronics
+
+<a href="YOUR_PROJECT_LINK">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 📌 Current Focus
+
+```text
+Learning        → Software Development & Emerging Technologies
+Building        → Practical Projects
+Improving       → Problem Solving & Programming
+Exploring       → IoT • Embedded Systems • AI
+Goal            → Turn ideas into useful technology
+```
+
+---
+
+<details>
+
+<summary><b>🏆 Achievements & Certifications</b></summary>
+
+<br>
+
+* Add your strongest certification here
+* Add your technical certification here
+* Add hackathon / competition achievements
+* Add workshops or training programs
+* Add academic achievements
+
+</details>
+
+<br>
+
+<details>
+
+<summary><b>📚 Areas of Knowledge</b></summary>
+
+<br>
+
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* Embedded Systems
+* Internet of Things
+* Electronics
+* Communication Systems
+* Artificial Intelligence Fundamentals
+
+</details>
+
+<br>
+
+<details>
+
+<summary><b>🎯 Professional Interests</b></summary>
+
+<br>
+
+I am interested in opportunities related to:
+
+* Software Development
+* Embedded Software
+* IoT Development
+* Electronics Engineering
+* AI-based Applications
+* Technology Product Development
+
 </details>
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 GitHub Activity
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/sujaya-25/sujaya-25/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/sujaya-25/sujaya-25/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/sujaya-25/sujaya-25/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
-</p>
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=sujaya-25&bg_color=ffffff&color=3D8FA8&line=806484&point=9B466B&area=true&hide_border=true"
+width="95%"
+/>
+
+</div>
 
 ---
 
-## 📫 Connect With Me
+## 🐍 Contribution Journey
 
-<p align="center">
+<div align="center">
 
-<a href="https://sujaya-25.github.io/PORTFOLIO/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge">
-</a>
+<img src="https://raw.githubusercontent.com/sujaya-25/sujaya-25/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 
-<a href="https://www.linkedin.com/in/sujayaks/">
-<img src="https://img.shields.io/badge/LinkedIn-Sujaya_K_S-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="mailto:sujayaaks@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Email_Me-red?style=for-the-badge&logo=gmail">
-</a>
-
-</p>
+</div>
 
 ---
 
-<h3 align="center">
-🚀 Building ideas today for a smarter tomorrow.
-</h3>
+## 🤝 Connect With Me
 
-<p align="center">
-⭐ Thanks for visiting my GitHub profile!
-</p>
+<div align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sujaya-25">
+<img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 💭 Build. Learn. Improve. Repeat.
+
+⭐ Thanks for visiting my profile!
+
+</div>
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:9B466B,50:806484,100:3D8FA8&height=120&section=footer"
+width="100%"
+/>
