@@ -1,5 +1,15 @@
 <div align="center">
+<div align="center">
 
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:F9A8D4,50:C4B5FD,100:93C5FD&height=180&section=header&text=Sujaya%20K%20S&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Electronics%20%26%20Communication%20Engineering%20Student&descAlignY=58&descSize=16"
+  width="100%"
+/>
+
+# ✨ Hi, I'm Sujaya K S
+
+### Electronics & Communication Engineering Student  
+### Software Development • Embedded Systems • IoT
 # ✨ Hi, I'm Sujaya K S
 
 ### Electronics & Communication Engineering Student  
