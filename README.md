@@ -388,5 +388,8 @@ Intra-College Competition
 ### ✨ Learn • Build • Solve • Improve
 
 <sub>Thanks for visiting my profile 🤍</sub>
-
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:9B466B,50:806484,100:3D8FA8&height=120&section=footer"
+  width="100%"
+/>
 </div>
