@@ -341,6 +341,22 @@ Intra-College Competition
 </div>
 
 ---
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<a href="https://git.io/streak-stats">
+  <img
+    src="https://streak-stats.demolab.com?user=sujaya-25&theme=tokyonight&hide_border=true"
+    alt="Sujaya GitHub Streak"
+  />
+</a>
+
+</div>
+
+---
 ## 🐍 GitHub Contribution Snake
 
 <div align="center">
