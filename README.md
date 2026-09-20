@@ -1,10 +1,19 @@
-
 <div align="center">
 
-<img src="./assets/banner.gif" width="100%" alt="Sujaya K S Banner">
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:9B466B,50:806484,100:3D8FA8&height=190&section=header&text=Sujaya%20K%20S&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"
+  width="100%"
+  alt="Sujaya K S"
+/>
 
 <br>
 
+# ✨ Hi, I'm Sujaya K S
+
+### Electronics & Communication Engineering Student  
+### Software Development • Embedded Systems • IoT
+
+<br>
 # ✨ Hi, I'm Sujaya K S
 
 ### Electronics & Communication Engineering Student  
