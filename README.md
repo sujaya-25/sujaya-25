@@ -10,8 +10,14 @@
 
 # ✨ Hi, I'm Sujaya K S
 
-### Electronics & Communication Engineering Student  
-### Software Development • Embedded Systems • IoT
+### Electronics & Communication Engineering Student
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Software+Development+%7C+Problem+Solving;Java+%7C+Python+%7C+Data+Structures;Embedded+Systems+%7C+IoT;Learning+%E2%80%A2+Building+%E2%80%A2+Improving"
+    alt="Typing SVG"
+  />
+</p>
 
 <br>
 
