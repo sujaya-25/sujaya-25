@@ -8,8 +8,10 @@
 
 <br>
 
-# ✨ Hi, I'm Sujaya K S
-
+<h1 align="center">
+  ✨ Hi, I'm Sujaya K S
+  <img src="./assets/wave.gif" width="35" alt="Waving hand">
+</h1>
 ### Electronics & Communication Engineering Student
 
 <p align="center">
