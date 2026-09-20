@@ -357,6 +357,21 @@ Intra-College Competition
 </div>
 
 ---
+---
+
+## 🏙️ 3D Contribution Graph
+
+<div align="center">
+
+<img
+  src="./profile-3d-contrib/profile-night-rainbow.svg"
+  width="100%"
+  alt="Sujaya 3D Contribution Graph"
+/>
+
+</div>
+
+---
 ## 🐍 GitHub Contribution Snake
 
 <div align="center">
